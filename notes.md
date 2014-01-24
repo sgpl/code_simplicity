@@ -60,3 +60,24 @@ lots of stuff about the history of stuff and why there aren't any set guidelines
 ...
 ...
 
+## chapter 3: driving forces of software design
+
+- single purpose of all software: to help people. 
+
+basic thought process: 
+	- define speficic use cases for software
+	- consider all the feature requests
+		- how does this feature help solve the use case
+		- ^ if it doesn't, srtike off the feature request
+		- write out why the particular feature helps
+	- ^ this helps resolve uncertainties about feature descriptions or how it should be implemented. 
+	- ^ helps team come to an agreement about the value of a feature
+	- ^ answering questions will help understand that some features are more important that others. 
+	- ^ other stuff like looking at bugs and deciding how the particular bug hinder the purpose of the program. 
+
+
+goal of software design
+- write helpful software
+- allow software to continue to be helpful
+- design systems that can be created and maintained as easily as possible by their programmers - so that they continue to be helpful
+
