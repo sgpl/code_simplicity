@@ -30,3 +30,33 @@ random info:
 - quality of code is the largest problem faced by software projects today. 
 - most of this book will focus on improving the structure and quality of the instructions that we give to the computer. 
 
+## chapter 2: the missing science
+
+- this book is about software design
+- designing software == planning it out. things to plan:
+	- structure of code
+	- technologies to be used
+	- other technical decisions to be made
+- software design might be a written document or decisions that we're planning to adhere to 
+- in the "design" and "no design" continuum there are infinite shades of grey such as a "partial design", "several conflicting designs in one piece of code", "almost complete design"
+
+- proper software design decisions helps people decide:
+	- what should the structure of the program code be
+	- more important on fast program or program whose code is easy to read
+	- which programming language to use
+- doesn't cover stuff like:
+	- structure of company
+	- team meetings
+	- working hours
+	- performance measure of programmers
+
+"Anything that involves the architecture of your software system or the tech- nical decisions you make while creating the system falls under the category of 'software design'."
+
+- every programmer is a designer
+
+...
+...
+lots of stuff about the history of stuff and why there aren't any set guidelines for writing software
+...
+...
+
