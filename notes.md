@@ -146,9 +146,9 @@ maintenance
 - the longer your program exists, the more probable it is that any piece of it will have to change. 
 - you don't need to predict what will change, just know that things will change
 
-... example of four programs and changes over time.
+... example of four programs and changes over time....
 
-- don't write code until you actually need it, and remove any code that isn't being used. 
+- don't write code until you actually need it, and remove any code that isn't being used. don't over engineer
 
 
 .....
@@ -160,3 +160,15 @@ maintenance
 
 
 
+## chapter 6: defects and design
+
+- good programmers will introduce roughly one defect into a program for every 100 lines of code. best will include one in 1000. 
+
+- you can't introduce new bugs if you don't add or modify code. 
+- never "fix" anything unless it is a problem and you have **evidence** showing that the problem really exists.
+- premature optimization : some developers seem to like to make things go fast, but they spend time optimizing their code before they know that it is slow. 
+
+
+##### don't repeat yourself
+
+- One of the good reasons to follow this rule is the Law of Defect Probability. If we can reuse old code, we don’t have to write or change as much code when we add new features, so we introduce fewer defects....
