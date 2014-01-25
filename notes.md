@@ -191,4 +191,13 @@ make code easy to read for others:
 	- to explain why you did something
 - make and follow good design decisions
 
- 
+## chapter 8: complexity
+
+...... read book .....
+
+## chapter 9: testing
+
+- the degree to which you know how your software behaves is the degree to which you have accurately tested it. 
+
+
+#### ---- end of book ---- 
