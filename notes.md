@@ -172,3 +172,23 @@ maintenance
 ##### don't repeat yourself
 
 - One of the good reasons to follow this rule is the Law of Defect Probability. If we can reuse old code, we don’t have to write or change as much code when we add new features, so we introduce fewer defects....
+
+
+## chapter 7 : simplicity
+
+- ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces
+- 
+
+make code easy to read for others:
+
+- simple design 
+- simple documentation
+- step-by-step tutorials
+- be consistent
+- write code that is "readable" : easy to read
+- give good names to variables, functions, classes, etc
+- have good comments (not about what the piece of code is doing)
+	- to explain why you did something
+- make and follow good design decisions
+
+ 
