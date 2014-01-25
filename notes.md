@@ -139,3 +139,24 @@ maintenance
 .......
 
 - come you your own conclusions about all the stuff the book talks about. 
+
+
+## chapter 5: change
+
+- the longer your program exists, the more probable it is that any piece of it will have to change. 
+- you don't need to predict what will change, just know that things will change
+
+... example of four programs and changes over time.
+
+- don't write code until you actually need it, and remove any code that isn't being used. 
+
+
+.....
+
+
+##### incremental development and design
+
+- designing and building a system piece by piece, in order
+
+
+
